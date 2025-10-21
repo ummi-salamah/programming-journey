@@ -1,0 +1,7 @@
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas2_fungsiratarata\bin\Debug\Tugas2_fungsiratarata.exe.config
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas2_fungsiratarata\bin\Debug\Tugas2_fungsiratarata.exe
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas2_fungsiratarata\bin\Debug\Tugas2_fungsiratarata.pdb
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas2_fungsiratarata\obj\Debug\Tugas2_fungsiratarata.csproj.AssemblyReference.cache
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas2_fungsiratarata\obj\Debug\Tugas2_fungsiratarata.csproj.CoreCompileInputs.cache
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas2_fungsiratarata\obj\Debug\Tugas2_fungsiratarata.exe
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas2_fungsiratarata\obj\Debug\Tugas2_fungsiratarata.pdb
