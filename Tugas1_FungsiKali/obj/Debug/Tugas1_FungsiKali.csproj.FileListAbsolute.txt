@@ -1,0 +1,8 @@
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas1_FungsiKali\obj\Debug\Tugas1_FungsiKali.csproj.AssemblyReference.cache
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas1_FungsiKali\obj\Debug\Tugas1_FungsiKali.csproj.CoreCompileInputs.cache
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas1_FungsiKali\bin\Debug\Tugas1_FungsiKali.exe.config
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas1_FungsiKali\bin\Debug\Tugas1_FungsiKali.exe
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas1_FungsiKali\bin\Debug\Tugas1_FungsiKali.pdb
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas1_FungsiKali\obj\Debug\Tugas1_FungsiKali.exe
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas1_FungsiKali\obj\Debug\Tugas1_FungsiKali.pdb
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas1_FungsiKali\obj\Debug\Tugas1_FungsiKali.exe.config
