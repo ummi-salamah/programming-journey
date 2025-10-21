@@ -1,0 +1,7 @@
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Praktek_7,4_fungsi hitung luas\bin\Debug\Praktek_7,4_fungsi hitung luas.exe.config
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Praktek_7,4_fungsi hitung luas\bin\Debug\Praktek_7,4_fungsi hitung luas.exe
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Praktek_7,4_fungsi hitung luas\bin\Debug\Praktek_7,4_fungsi hitung luas.pdb
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Praktek_7,4_fungsi hitung luas\obj\Debug\Praktek_7,4_fungsi hitung luas.csproj.AssemblyReference.cache
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Praktek_7,4_fungsi hitung luas\obj\Debug\Praktek_7,4_fungsi hitung luas.csproj.CoreCompileInputs.cache
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Praktek_7,4_fungsi hitung luas\obj\Debug\Praktek_7,4_fungsi hitung luas.exe
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Praktek_7,4_fungsi hitung luas\obj\Debug\Praktek_7,4_fungsi hitung luas.pdb
