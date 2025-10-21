@@ -1,0 +1,7 @@
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas3_fungsikonversisuhu\bin\Debug\Tugas3_fungsikonversisuhu.exe.config
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas3_fungsikonversisuhu\bin\Debug\Tugas3_fungsikonversisuhu.exe
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas3_fungsikonversisuhu\bin\Debug\Tugas3_fungsikonversisuhu.pdb
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas3_fungsikonversisuhu\obj\Debug\Tugas3_fungsikonversisuhu.csproj.AssemblyReference.cache
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas3_fungsikonversisuhu\obj\Debug\Tugas3_fungsikonversisuhu.csproj.CoreCompileInputs.cache
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas3_fungsikonversisuhu\obj\Debug\Tugas3_fungsikonversisuhu.exe
+C:\Users\Zyrex\Documents\UMMI PRAKTEK 7\Tugas3_fungsikonversisuhu\obj\Debug\Tugas3_fungsikonversisuhu.pdb
