@@ -1,0 +1,17 @@
+C:\Users\amelf\OneDrive\Dokumen\PROJEK C#\ProjekAkhir_UmmiSalamah_XPPLG2\ProjekAkhir_UmmiSalamah_XPPLG2\obj\Debug\net8.0-windows\ProjekAkhir_UmmiSalamah_XPPLG2.Form1.resources
+C:\Users\amelf\OneDrive\Dokumen\PROJEK C#\ProjekAkhir_UmmiSalamah_XPPLG2\ProjekAkhir_UmmiSalamah_XPPLG2\obj\Debug\net8.0-windows\ProjekAkhir_UmmiSalamah_XPPLG2.csproj.GenerateResource.cache
+C:\Users\amelf\OneDrive\Dokumen\PROJEK C#\ProjekAkhir_UmmiSalamah_XPPLG2\ProjekAkhir_UmmiSalamah_XPPLG2\obj\Debug\net8.0-windows\ProjekAkhir_UmmiSalamah_XPPLG2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amelf\OneDrive\Dokumen\PROJEK C#\ProjekAkhir_UmmiSalamah_XPPLG2\ProjekAkhir_UmmiSalamah_XPPLG2\obj\Debug\net8.0-windows\ProjekAkhir_UmmiSalamah_XPPLG2.AssemblyInfoInputs.cache
+C:\Users\amelf\OneDrive\Dokumen\PROJEK C#\ProjekAkhir_UmmiSalamah_XPPLG2\ProjekAkhir_UmmiSalamah_XPPLG2\obj\Debug\net8.0-windows\ProjekAkhir_UmmiSalamah_XPPLG2.AssemblyInfo.cs
+C:\Users\amelf\OneDrive\Dokumen\PROJEK C#\ProjekAkhir_UmmiSalamah_XPPLG2\ProjekAkhir_UmmiSalamah_XPPLG2\obj\Debug\net8.0-windows\ProjekAkhir_UmmiSalamah_XPPLG2.csproj.CoreCompileInputs.cache
+C:\Users\amelf\OneDrive\Dokumen\PROJEK C#\ProjekAkhir_UmmiSalamah_XPPLG2\ProjekAkhir_UmmiSalamah_XPPLG2\bin\Debug\net8.0-windows\ProjekAkhir_UmmiSalamah_XPPLG2.exe
+C:\Users\amelf\OneDrive\Dokumen\PROJEK C#\ProjekAkhir_UmmiSalamah_XPPLG2\ProjekAkhir_UmmiSalamah_XPPLG2\bin\Debug\net8.0-windows\ProjekAkhir_UmmiSalamah_XPPLG2.deps.json
+C:\Users\amelf\OneDrive\Dokumen\PROJEK C#\ProjekAkhir_UmmiSalamah_XPPLG2\ProjekAkhir_UmmiSalamah_XPPLG2\bin\Debug\net8.0-windows\ProjekAkhir_UmmiSalamah_XPPLG2.runtimeconfig.json
+C:\Users\amelf\OneDrive\Dokumen\PROJEK C#\ProjekAkhir_UmmiSalamah_XPPLG2\ProjekAkhir_UmmiSalamah_XPPLG2\bin\Debug\net8.0-windows\ProjekAkhir_UmmiSalamah_XPPLG2.dll
+C:\Users\amelf\OneDrive\Dokumen\PROJEK C#\ProjekAkhir_UmmiSalamah_XPPLG2\ProjekAkhir_UmmiSalamah_XPPLG2\bin\Debug\net8.0-windows\ProjekAkhir_UmmiSalamah_XPPLG2.pdb
+C:\Users\amelf\OneDrive\Dokumen\PROJEK C#\ProjekAkhir_UmmiSalamah_XPPLG2\ProjekAkhir_UmmiSalamah_XPPLG2\obj\Debug\net8.0-windows\ProjekAkhir_UmmiSalamah_XPPLG2.dll
+C:\Users\amelf\OneDrive\Dokumen\PROJEK C#\ProjekAkhir_UmmiSalamah_XPPLG2\ProjekAkhir_UmmiSalamah_XPPLG2\obj\Debug\net8.0-windows\refint\ProjekAkhir_UmmiSalamah_XPPLG2.dll
+C:\Users\amelf\OneDrive\Dokumen\PROJEK C#\ProjekAkhir_UmmiSalamah_XPPLG2\ProjekAkhir_UmmiSalamah_XPPLG2\obj\Debug\net8.0-windows\ProjekAkhir_UmmiSalamah_XPPLG2.pdb
+C:\Users\amelf\OneDrive\Dokumen\PROJEK C#\ProjekAkhir_UmmiSalamah_XPPLG2\ProjekAkhir_UmmiSalamah_XPPLG2\obj\Debug\net8.0-windows\ProjekAkhir_UmmiSalamah_XPPLG2.genruntimeconfig.cache
+C:\Users\amelf\OneDrive\Dokumen\PROJEK C#\ProjekAkhir_UmmiSalamah_XPPLG2\ProjekAkhir_UmmiSalamah_XPPLG2\obj\Debug\net8.0-windows\ref\ProjekAkhir_UmmiSalamah_XPPLG2.dll
+C:\Users\amelf\OneDrive\Dokumen\PROJEK C#\ProjekAkhir_UmmiSalamah_XPPLG2\ProjekAkhir_UMMISALAMAH_XPPLG2\obj\Debug\net8.0-windows\ProjekAkhir_UMMISALAMAH_XPPLG2.Properties.Resources.resources
