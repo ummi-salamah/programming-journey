@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+ <title>Blog Pribadi - Profil Saya</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Poppins', sans-serif;
+      background-color: #e8f4f8;
+      color: #333;
+      max-width: 650px;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 20px;
+      min-height: 100vh;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 2em;
+      padding: 2em 1em 1.5em;
+    }
+
+    header img {
+        width: 200PX;
+        border-radius: 15PX;
+    }
+
+    header h1 {
+      font-family: 'Nunito', sans-serif;
+      font-size: 2rem;
+      font-weight: 800;
+      color: #1a5f7a;
+      letter-spacing: 1px;
+      margin-bottom: 0.5em;
+    }
+
+    .profile-photo {
+      text-align: center;
+      margin-bottom: 1.5em;
+    }
+
+    .profile-photo p {
+      font-size: 0.85rem;
+      color: #666;
+      margin-bottom: 0.5em;
+    }
+
+    .avatar {
+      width: 110px;
+      height: 110px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #74b9ff, #a29bfe);
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 3rem;
+      border: 4px solid #fff;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+    }
+
+    article {
+      background-color: #ffffff;
+      border: 1px solid #cce0ea;
+      border-radius: 12px;
+      padding: 1.2em;
+      margin-bottom: 1.2em;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    }
+
+    article p {
+      font-size: 0.95rem;
+      line-height: 1.7;
+      color: #444;
+    }
+
+    .action-buttons {
+      margin-top: 1em;
+      display: flex;
+      gap: 0.5em;
+      flex-wrap: wrap;
+    }
+
+    .action-buttons button {
+      display: inline;
+      padding: 0.35em 0.9em;
+      border-radius: 20px;
+      border: 1px solid #b0c8d4;
+      background-color: #f0f8fc;
+      color: #1a5f7a;
+      font-size: 0.82rem;
+      font-family: 'Poppins', sans-serif;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    .action-buttons button:hover {
+      background-color: #d4eef8;
+    }
+
+    .skills-table {
+      width: 100%;
+      background-color: #ffffff;
+      border: 1px solid #cce0ea;
+      border-radius: 12px;
+      padding: 1.2em;
+      margin-bottom: 1.2em;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    }
+
+    .skills-table .table-header {
+      display: flex;
+      gap: 1em;
+      margin-bottom: 1em;
+    }
+
+    .skills-table .col-title {
+      flex: 1;
+      font-weight: 700;
+      font-size: 0.9rem;
+      color: #1a5f7a;
+      text-align: center;
+      padding-bottom: 0.5em;
+      border-bottom: 2px solid #cce0ea;
+    }
+
+    .skills-table .cols {
+      display: flex;
+      gap: 1em;
+    }
+
+    .skills-table .col {
+      flex: 1;
+    }
+
+    .skills-table ul {
+      list-style: disc;
+      padding-left: 1.2em;
+    }
+
+    .skills-table ul li {
+      font-size: 0.88rem;
+      color: #444;
+      margin-bottom: 0.4em;
+    }
+
+    footer {
+      font-size: small;
+      margin-top: 3em;
+      text-align: center;
+      color: #888;
+      padding: 1em;
+      border-top: 1px solid #cce0ea;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Ummi Salamahh</h1>
+    <img src="WhatsApp Image 2026-03-03 at 11.48.53.jpeg" alt="poto profil">
+  </header>
+
+ 
+  <article>
+    <p>
+      Heyyow hayy kawan! Kenalin aku <strong>Ummi Salamah</strong>. Manusia yang biasa dipanggil Ummi,hobiku bermain game
+      tapi mainnya pas mut doang, sering dibilang sok asik tapi ya emang sie. Aku pecinta seblak garis keras,rumah 
+      aku di desa bukann kota tepatnya desa adinuso subah. takut banget sama kegelapan nanti ada hihihii,cat loverss abiesss katanya, 
+      soale kalo ada kucing di jalan pengen banget tak ambil tapi yaa gitu rumah aku udah jadi kandang kucing.
+    </p>
+    <div class="action-buttons">
+      <button>👍 Like</button>
+      <button>💬 Comment</button>
+      <button>🔗 Share</button>
+    </div>
+  </article>
+
+  <article>
+    <p>
+     And yapp aku suka banget tidur gampang ketiduran, aku juga suka oseng oseng sreng memasakk berbagaii macamm(kalo gatau bahan yaudah gas aja 
+     yang penting enak). Suka bikin onar heumm paling ribut sama brisik kalo lagi bercanda, ehh iyaa aku anakk dari jurusan PPLG
+     suka banget ngoding kalo mudeng, nek engga ya muter muter. Anakk abas juga ehehe, suka basket dari smp tapi main
+     pas udah smk hii telatt bangett jadinya aku masi pemula gajadi proplayer langsung dehh. Heum udahh sekian aku bingung juga, tetep menyalaa wihh.
+    </p>
+    <div class="action-buttons">
+      <button>👍 Like</button>
+      <button>💬 Comment</button>
+      <button>🔗 Share</button>
+    </div>
+  </article>
+  <div class="skills-table">
+    <div class="table-header">
+      <div class="col-title">Skill</div>
+      <div class="col-title">Pengalaman</div>
+    </div>
+    <div class="cols">
+      <div class="col">
+        <ul>
+          <li>bisa bermain basket</li>
+          <li>banyak tingkah</li>
+          <li>gampang paham kalo emang gampang ehe</li>
+        </ul>
+      </div>
+      <div class="col">
+        <ul>
+          <li>Ikut Popda</li>
+          <li>Membuat Praktik-praktik HTML dan CSS</li>
+          <li>ikut lomba sains pelajar</li>
+        </ul>
+      </div>
+    </div>
+</div>
+</body>
+</html>
