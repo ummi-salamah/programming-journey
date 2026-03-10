@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas Overflow</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+        body {
+            background-color: #f9f9f9;
+            margin: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        /* Navigasi */
+        .nav {
+            text-align: center;
+            margin-bottom: 40px;
+            background-color: #e0e0e0;
+            padding: 10px 0;
+        }
+        .nav a {
+            display: inline-block;
+            padding: 10px 25px;
+            margin: 0 5px;
+            background-color: #a3d9ec;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .nav a:hover {
+            background-color: aqua;
+        }
+        /* Container artikel untuk memberi jarak */
+        .artikel-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 30px;
+            justify-content: center;
+        }
+        /* Gaya dasar artikel */
+        .artikel {
+            width: 300px;
+            border: 2px solid #333;
+            background-color: #fff;
+            padding: 10px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .artikel h3 {
+            text-align: center;
+            margin-top: 0;
+            background-color: rgb(159, 194, 209);
+            padding: 5px;
+            border-radius: 5px;
+        }
+        .artikel img {
+            display: block;
+            margin: 0 auto 10px;
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+        /* Konten artikel dengan overflow */
+        .konten {
+            width: 100%;
+            height: 150px;   /* Tinggi tetap agar overflow terjadi */
+            background-color: rgb(210, 210, 224);
+            padding: 8px;
+            border: 1px dashed rgb(187, 187, 231);
+            font-size: 14px;
+            line-height: 1.5;
+            text-align: justify;
+        }
+        /* Masing-masing overflow */
+        .visible { overflow: visible; }
+        .hidden { overflow: hidden; }
+        .scroll { overflow: scroll; }
+        .auto { overflow: auto; }
+    </style>
+</head>
+<body>
+<h1>Toko Sabun Mandi</h1>
+
+<div class="nav">
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Product</a>
+    <a href="#">Contact</a>
+</div>
+
+<div class="artikel-container">
+
+    <!-- Artikel 1: overflow visible -->
+    <div class="artikel">
+        <h3>Produk 1: Sabun Biore</h3>
+        <img src="sabun biore.jfif" alt="Biore">
+        <div class="konten visible">
+            <strong>[overflow: visible]</strong><br>
+            Biore adalah sabun yang memberikan kesegaran dan kebersihan maksimal pada kulit.
+            Dengan formula khusus, sabun ini membantu mengangkat kotoran, minyak, dan kuman dari tubuh.
+            Aromanya lembut dan menyegarkan sehingga membuat mandi terasa lebih nyaman. Kulit terasa bersih,
+            halus, dan segar sepanjang hari setelah menggunakan sabun Biore.
+        </div>
+    </div>
+
+    <!-- Artikel 2: overflow hidden -->
+    <div class="artikel">
+        <h3>Produk 2: Sabun Lux </h3>
+        <img src="sabun lux.jfif" alt="Lux">
+        <div class="konten hidden">
+            <strong>[overflow: hidden]</strong><br>
+             Lux merupakan sabun yang terkenal dengan aroma bunga yang mewah
+             dan elegan. Sabun ini membantu membersihkan kulit sekaligus
+             memberikan keharuman yang tahan lama. Busa lembutnya membuat kulit terasa
+             lebih halus dan lembap. Menggunakan Lux saat mandi memberikan pengalaman yang 
+             menyenangkan dan membuat tubuh terasa segar sepanjang hari.
+        </div>
+    </div>
+
+    <!-- Artikel 3: overflow scroll -->
+    <div class="artikel">
+        <h3>Produk 3: Sabun Nuvo</h3>
+        <img src="sabun Nuvo.jfif" alt=Nuvo">
+        <div class="konten scroll">
+            <strong>[overflow: scroll]</strong><br>
+            Nuvo adalah sabun kesehatan yang membantu melindungi kulit dari kuman dan bakteri.
+            Sabun ini cocok digunakan setiap hari untuk menjaga kebersihan tubuh.
+            Dengan formula perlindungan kuman dan aroma yang segar, Nuvo membuat kulit
+            terasa bersih dan sehat. Mandi dengan Nuvo membantu menjaga tubuh tetap higienis.
+        </div>
+    </div>
+
+    <!-- Artikel 4: overflow auto -->
+    <div class="artikel">
+        <h3>Produk 4: Sabun Zen</h3>
+        <img src="sabun zen.jfif" alt="Zen">
+        <div class="konten auto">
+            <strong>[overflow: auto]</strong><br>
+            Sabun Zen dikenal dengan aroma yang menenangkan dan menyegarkan tubuh.
+            Sabun ini membantu membersihkan kulit dari kotoran dan keringat setelah beraktivitas.
+            Dengan busa lembut dan wangi yang khas, Zen memberikan sensasi rileks saat mandi.
+            Kulit terasa lebih bersih, segar, dan nyaman sehingga membuat tubuh lebih percaya diri.
+        </div>
+    </div>
+    </div>
+</body>
+</html>
